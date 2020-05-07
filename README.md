@@ -1,7 +1,7 @@
 # book-store-python-gui
 
 A program for bookstore
-A book will following information:
+A book will have following information:
 Title
 Author
 Year
